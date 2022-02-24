@@ -1,5 +1,5 @@
 # docs-structure
-How to make docs tree using md files
+It's a relly fast guide of how to make docs tree using md files.
 
 ## Let's read the documentation!
 
